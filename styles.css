@@ -1,20 +1,20 @@
 body{
   display:flex;
   flex-direction: column;
-  min-width: 1020px;   /*width of container and margin*/
+  min-width: 700px;   /*width of container and margin*/
 }
 
 .container{
-  margin: 30px auto;
+  margin: 15px auto;
   display: flex;
   flex-wrap: wrap;
-  width: 960px;
+  width: 560px;
   justify-content: center;
   align-items: center;
   border: 2px solid black;
 }
 
 #generator{
-  margin: 30px auto;
+  margin: 15px auto;
   padding: 5px 6px;
 }
